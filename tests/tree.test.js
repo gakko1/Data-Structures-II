@@ -1,4 +1,6 @@
 /* eslint-disable no-undef */
+/* eslint-disable class-methods-use-this */
+
 const Tree = require('../src/tree');
 
 describe('Tree', () => {

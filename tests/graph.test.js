@@ -1,4 +1,5 @@
 /* eslint-disable no-undef */
+/* eslint-disable class-methods-use-this */
 const Graph = require('../src/graph');
 
 describe('Graph', () => {
