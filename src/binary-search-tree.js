@@ -17,7 +17,7 @@ class BinarySearchTree {
         this.left.insert(value);
       }
       else {
-        this.left=new BinarySearchTree(value);
+        this.left = new BinarySearchTree(value);
       }
     }
     else {
